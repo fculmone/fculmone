@@ -13,7 +13,7 @@
 # 💫About Me :
 🔭 My name is Francesco Culmone
   
-  📚 I am a student at The University of Waterloo
+  📚 I am a computer science student at The University of Waterloo
 
   📫 How to reach me:  
   Mail me at "fculmone5@gmail.com"
