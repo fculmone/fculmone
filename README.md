@@ -7,7 +7,7 @@ Most recently I interned at **Shopify** on the mobile growth team — shipping e
 ## Things I've built
 
 - **[relay.nvim](https://github.com/fculmone/relay.nvim)** — a Neovim bridge for terminal coding agents: send editor context to the agent, watch its edits land live, review everything as diffs against `HEAD`. Built because my editor and my coding agents needed to stop ignoring each other.
-- **[Royale Clan Manager](https://github.com/fculmone/royale-clan-manager)** — full-stack Clash Royale analytics platform with ~100 monthly users, self-hosted on a VPS ([backend](https://github.com/fculmone/python-api-clashroyale)). My crash course in Docker, Nginx, and keeping a server alive.
+- **[Royale Clan Manager](https://github.com/fculmone/royale-clan-manager)** — full-stack Clash Royale analytics platform with ~100 monthly users, self-hosted on a VPS. My crash course in Docker, Nginx, and keeping a server alive.
 - **[A portfolio you can walk around in](https://fculmone.github.io/portfolio/)** — Zelda-style, built with Phaser.
 - **[nvim-config](https://github.com/fculmone/nvim-config)** + **[dotfiles](https://github.com/fculmone/dotfiles)** — endlessly "finished".
 
