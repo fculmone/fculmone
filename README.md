@@ -14,3 +14,5 @@ Most recently I interned at **Shopify** on the mobile growth team — shipping e
 **I reach for:** TypeScript / React Native, Python, Lua — and whatever the problem actually needs.
 
 📫 [fculmone@uwaterloo.ca](mailto:fculmone@uwaterloo.ca) · [LinkedIn](https://linkedin.com/in/francesco-culmone)
+
+*i use neovim btw*
