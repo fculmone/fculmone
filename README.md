@@ -18,7 +18,7 @@
 - 📱 **Summer 2026** — SWE intern at **Shopify** (Sell on Mobile · Growth): built a multi-armed-bandit personalization system for the mobile app's welcome screen and task-scoped AI conversation routing for merchant onboarding (React Native, TypeScript, GraphQL)
 - ⚙️ Previously built multi-tenant auth (FastAPI, Microsoft Entra ID) for a production expense platform at HTS Engineering / KORE Solutions
 - 🤖 Into **developer tooling and AI-agent workflows** — currently building [relay.nvim](https://github.com/fculmone/relay.nvim)
-- 🔎 **Seeking Winter 2027 (Jan–Apr) software engineering internships**
+- 🔎 **Open to full-time and internship opportunities starting Winter 2027**
 
 ## Featured projects
 
